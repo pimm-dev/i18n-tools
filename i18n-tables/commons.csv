@@ -1,8 +1,8 @@
 Key,English(en),Korean(ko)
 io.github.pimm-dev.i18n-tables.commons.Yes,Yes,예
 io.github.pimm-dev.i18n-tables.commons.No,No,아니오
-io.github.pimm-dev.i18n-tables.commons.Confirm,확인
-io.github.pimm-dev.i18n-tables.commons.Cancel,취소
+io.github.pimm-dev.i18n-tables.commons.Confirm,Confirm,확인
+io.github.pimm-dev.i18n-tables.commons.Cancel,Cancel,취소
 io.github.pimm-dev.i18n-tables.commons.GameStart,Game Start,게임 시작
 io.github.pimm-dev.i18n-tables.commons.Settings,Settings,환경 설정
 io.github.pimm-dev.i18n-tables.commons.QuitGame,Quit Game,게임 종료
